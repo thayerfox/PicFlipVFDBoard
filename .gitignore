@@ -34,3 +34,9 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+/History/*
+/Project Logs for picphlipvfd/*
+/Project Outputs for picphlipvfd/*
+/picphlipvfd/History/*
+/picphlipvfd2/Project Outputs for picphlipvfd/*
